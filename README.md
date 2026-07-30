@@ -1,3 +1,3 @@
 # literallyme
-<img width="600" height="448" alt="17854026748048458323507802781020" src="https://github.com/user-attachments/assets/f08bd8ea-b5f2-40d6-ba66-d4efc3b8a153" />
-<img width="36" height="45" alt="17854029663798430594974980632436" src="https://github.com/user-attachments/assets/3e55aae2-c99d-4668-b30b-29bd8eaccb2c" />
+<img width="36" height="60" alt="17854029663798430594974980632436" src="https://github.com/user-attachments/assets/074bdc4b-1a0f-4e5e-bd97-47e527f9fea8" />
+<img width="383" height="805" alt="17854030850883965150962912487891" src="https://github.com/user-attachments/assets/bc2acbcc-3671-45ae-acaa-9c19195fde3d" />
